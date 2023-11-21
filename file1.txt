@@ -1,2 +1,2 @@
 First line added.
-Second line added in remote master.
+Second line added in b1 branch.
