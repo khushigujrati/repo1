@@ -1,3 +1,4 @@
 First line added.
 Second line added in b1 branch.
+Third line added in remote b2 branch.
 Fourth line added in remote main.
